@@ -21,4 +21,4 @@ A su vez, estos ejercicios, ya sean los generales o los stop, están ordenados t
 Es decir, en el orden dado por la materia.
 
 Sé que puede resultar engorroso a la vista apenas uno abre los archivos, pero realmente son muy utiles a la hora de preparar el final.
-Cualquier duda pueden escribirme
+Cualquier duda pueden escribirme: agutson@fi.uba.ar
